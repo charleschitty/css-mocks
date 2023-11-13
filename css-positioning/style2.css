@@ -2,7 +2,6 @@ body {
   margin: 0;
   border: 5px solid black;
   height: 100vh;
-  position: relative;
 }
 
 .one {
@@ -27,4 +26,6 @@ body {
   width: 100px;
   height: 100px;
   background-color: blue;
+  position: absolute;
+  right: 0px;
 }
